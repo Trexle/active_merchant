@@ -1,6 +1,6 @@
-# Active Merchant
-[![Build Status](https://travis-ci.org/activemerchant/active_merchant.png?branch=master)](https://travis-ci.org/activemerchant/active_merchant)
-[![Code Climate](https://codeclimate.com/github/activemerchant/active_merchant.png)](https://codeclimate.com/github/activemerchant/active_merchant)
+# Trexle Active Merchant
+[![Build Status](https://travis-ci.org/Trexle/active_merchant.svg?branch=master)](https://travis-ci.org/Trexle/active_merchant)
+[![Maintainability](https://api.codeclimate.com/v1/badges/af9148e75d57ceb1e85c/maintainability)](https://codeclimate.com/github/Trexle/active_merchant/maintainability)
 
 Active Merchant is an extraction from the ecommerce system [Shopify](http://www.shopify.com).
 Shopify's requirements for a simple and unified API to access dozens of different payment
@@ -12,7 +12,7 @@ as a Rails plugin, but it also works excellently as a stand alone Ruby library.
 Active Merchant has been in production use since June 2006 and is now used in most modern
 Ruby applications which deal with financial transactions. It is maintained by the
 [Shopify](http://www.shopify.com) and [Spreedly](https://spreedly.com) teams, with much help
-from an ever-growing set of contributors.
+from an ever-growing set of contributors. [Trexle](https://trexle.com) maintain its own branch to help accepting more payment gateways in a swift manner.
 
 See [GettingStarted.md](GettingStarted.md) if you want to learn more about using Active Merchant in your
 applications.
