@@ -1,6 +1,6 @@
 module ActiveMerchant #:nodoc:
   module Billing #:nodoc:
-    class SplashPayments < Gateway
+    class SplashPaymentsGateway < Gateway
       self.test_url = 'https://test-api.splashpayments.com'
       self.live_url = 'https://api.splashpayments.com'
 
